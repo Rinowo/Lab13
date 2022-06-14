@@ -1,0 +1,3 @@
+Sử dụng ArrayList: 55300 nanosecond
+Sử dụng HashSet: 8900 nanosecond
+Sử dụng HashMap: 10700 nanosecond
